@@ -177,9 +177,9 @@ p{
 
 .contenedor_limite{
     background-color: grey;
-    max-width: 65%;
+    max-width: 70%;
     padding: 25px;
-    border: 2px solid black;
+    border: 2px solid black;git 
     border-radius: 25px;
     margin: 25px auto;
 }
